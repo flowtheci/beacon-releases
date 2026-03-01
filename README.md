@@ -1,20 +1,20 @@
-# Beam Releases
+# Beacon Releases
 
-Official public release repository for **Beam Host (macOS)** installers.
+Official public release repository for **Beacon (macOS)** installers.
 
 This repository is intentionally release-only and does not contain source code.
 
 ## Download
 
 - Latest macOS installer (DMG):
-  - [Beam.dmg](https://github.com/flowtheci/beam-releases/releases/latest/download/Beam.dmg)
+  - [Beacon.dmg](https://github.com/flowtheci/beam-releases/releases/latest/download/Beacon.dmg)
 
 ## Verify Download Integrity
 
 After downloading, verify the SHA-256 checksum:
 
 ```bash
-shasum -a 256 Beam.dmg
+shasum -a 256 Beacon.dmg
 ```
 
 Compare against the checksum listed in the release notes.
