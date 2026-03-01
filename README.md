@@ -7,7 +7,7 @@ This repository is intentionally release-only and does not contain source code.
 ## Download
 
 - Latest macOS installer (DMG):
-  - [Beacon.dmg](https://github.com/flowtheci/beam-releases/releases/latest/download/Beacon.dmg)
+  - [Beacon.dmg](https://github.com/flowtheci/beacon-releases/releases/latest/download/Beacon.dmg)
 
 ## Notes
 
